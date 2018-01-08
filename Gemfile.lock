@@ -8,7 +8,7 @@ GIT
 GIT
   remote: https://github.com/OpenSourcePolitics/decidim.git
   revision: 60348c69ab25599463747ce343407947d4e1e338
-  branch: OSP/f-moderation
+  branch: f-moderation
   specs:
     decidim (0.8.3)
       decidim-accountability (= 0.8.3)
