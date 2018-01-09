@@ -7,7 +7,7 @@ GIT
 
 GIT
   remote: https://github.com/OpenSourcePolitics/decidim.git
-  revision: 60348c69ab25599463747ce343407947d4e1e338
+  revision: 333ec2ddd50b349ea7e3d4ec4da76ef1f48c8236
   branch: f-moderation
   specs:
     decidim (0.8.3)
@@ -24,11 +24,6 @@ GIT
       decidim-surveys (= 0.8.3)
       decidim-system (= 0.8.3)
       decidim-verifications (= 0.8.3)
-
-GIT
-  remote: https://github.com/OpenSourcePolitics/decidim.git
-  revision: 8074bcd82668ebcfcbcd24b3214e8b6e5dcb2fc4
-  specs:
     decidim-accountability (0.8.3)
       decidim-comments (= 0.8.3)
       decidim-core (= 0.8.3)
